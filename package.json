@@ -1,0 +1,32 @@
+{
+  "name": "your-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoyalJupyter2004/React.git"
+  },
+  "author": "baibhab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoyalJupyter2004/React/issues"
+  },
+  "homepage": "https://github.com/RoyalJupyter2004/React#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "parcel": "^2.15.2",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.30.1"
+  }
+}
