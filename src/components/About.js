@@ -1,6 +1,5 @@
 import React from "react";
 /*import User from "./User";*/
-import Person from "./person";
 class About extends React.Component {
   render() {
     return (
@@ -18,7 +17,7 @@ class About extends React.Component {
         </p>
 
         <div className="flex justify-center">
-          <Person/>
+          
         </div>
       </main>
     );
